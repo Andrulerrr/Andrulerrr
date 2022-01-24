@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Andrulerrr
+- 👋 Hi, I’m Andrew
 - 👀 I’m interested in music, drumming, and coding
 - 🌱 I’m currently learning Kotlin for Android Studio
